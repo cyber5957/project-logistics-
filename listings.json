@@ -1,0 +1,80 @@
+[
+  {
+    "company": "FastMove Trucking",
+    "truckType": "Semi-Truck",
+    "route": "New York to California",
+    "price": 2500,
+    "contact": "fastmove@example.com",
+    "description": "Reliable long-haul service with experienced drivers.",
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Great service!"
+      },
+      {
+        "rating": 4,
+        "comment": "On time."
+      }
+    ]
+  },
+  {
+    "company": "QuickHaul Co.",
+    "truckType": "Box Truck",
+    "route": "Texas to Florida",
+    "price": 1200,
+    "contact": "quickhaul@example.com",
+    "description": "Affordable local moves with flexible scheduling.",
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Excellent!"
+      }
+    ]
+  },
+  {
+    "company": "City Movers",
+    "truckType": "Pickup Truck",
+    "route": "Los Angeles to San Francisco",
+    "price": 800,
+    "contact": "citymovers@example.com",
+    "description": "Small moves and deliveries within California.",
+    "reviews": [
+      {
+        "rating": 4,
+        "comment": "Reliable for small jobs."
+      }
+    ]
+  },
+  {
+    "company": "Nationwide Logistics",
+    "truckType": "Semi-Truck",
+    "route": "Chicago to Miami",
+    "price": 3200,
+    "contact": "nationwide@example.com",
+    "description": "Nationwide shipping with tracking services.",
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Professional and efficient."
+      },
+      {
+        "rating": 5,
+        "comment": "Highly recommended."
+      }
+    ]
+  },
+  {
+    "company": "Budget Moves",
+    "truckType": "Box Truck",
+    "route": "Boston to Washington DC",
+    "price": 1500,
+    "contact": "budgetmoves@example.com",
+    "description": "Budget-friendly options for mid-range moves.",
+    "reviews": [
+      {
+        "rating": 3,
+        "comment": "Good value."
+      }
+    ]
+  }
+]
