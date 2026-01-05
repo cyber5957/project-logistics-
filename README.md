@@ -1,5 +1,5 @@
 ## 🚀 Live Project
-🔗 https://your-live-url.onrender.com
+🔗 https://trucking-fullstack.onrender.com/
 
 ## 🛠 Tech Stack
 - HTML, CSS, JavaScript
@@ -8,4 +8,5 @@
 - Render (Deployment)
 
 ## 📸 Preview
-![Website Screenshot](screenshot.png)
+
+![Uploading Screenshot (34).png…]()
